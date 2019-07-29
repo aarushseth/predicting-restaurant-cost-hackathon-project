@@ -13,3 +13,9 @@ cost.xlsx is the excel file which I have saved after doing the task.
 <p>
 Reference:https://www.machinehack.com/course/predicting-restaurant-food-cost-hackathon/
 </p>
+<p><b>REQUIREMENTS</b><br>
+1.Numpy<br>
+2.Pandas<br>
+3.Matplotlib<br>
+4.Sklearn<br>
+5.Seaborn<br></p>
